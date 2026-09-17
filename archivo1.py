@@ -1,1 +1,1 @@
-print("Archivo modificado")
+prin("Archivo modificado")
